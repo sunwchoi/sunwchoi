@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+🛠 Tech Stack
+<a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"/></a>
+<img alt="Git Badge" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
+<a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white"/></a>
+<img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+
 <!--
 **sunwchoi/sunwchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
