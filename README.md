@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"/></a>
 <img alt="Git Badge" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
