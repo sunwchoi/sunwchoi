@@ -13,7 +13,7 @@
     
 <img alt="Unreal Engine" src ="https://img.shields.io/badge/UnrealEngine-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white">
 
-[언리얼 프로젝트 요약 포트폴리오]([https://github.com/sunwchoi/KingGodGeneralOfWar](https://www.canva.com/design/DAGWuxCpZDk/u0igxEevZ5LSWt6ehkNNTQ/edit?utm_content=DAGWuxCpZDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))    
+[언리얼 프로젝트 요약 포트폴리오](https://www.canva.com/design/DAGWuxCpZDk/u0igxEevZ5LSWt6ehkNNTQ/edit?utm_content=DAGWuxCpZDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)    
 [갓오브워 모작프로젝트](https://github.com/sunwchoi/KingGodGeneralOfWar)    
 [월드오브탱크 모작프로젝트](https://github.com/sunwchoi/WorldOfTTank)     
 [한글교육 방탈출 플랫폼](https://github.com/sunwchoi/MTVS3_3rd_Unreal) 
